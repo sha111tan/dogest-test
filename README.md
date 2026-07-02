@@ -62,7 +62,7 @@ src/
 
 | Требование | Как |
 |---|---|
-| Mobile-first | Вёрстка от 320px, нижняя навигация, touch-friendly кнопки |
+| Mobile-first | Вёрстка от 320px, нижняя навигация |
 | IndexedDB | Dexie, три таблицы: todos, notes, syncQueue |
 | Service Worker | vite-plugin-pwa + Workbox |
 | Синхронизация при сети | Очередь + `online` + mock API |
